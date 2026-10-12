@@ -9,3 +9,9 @@
     "role": "OWNER",
     "message": "drink water"
   },
+  {
+    "id": "10heat",
+    "role": "promoter",
+    "message": "thank you for promoting donut+"
+  }
+]
